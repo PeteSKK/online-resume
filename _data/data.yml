@@ -28,7 +28,7 @@ profile:
   display: true
   title: About me
   details: |
-    Since childhood, I've hold deep interest in the art of story writing and finding unique ways for people to interact and experience my stories. It was that naturally grew my deep interest in video game design.
+    Since childhood, I've hold deep interest in the art of story writing and finding unique ways for people to interact and experience my stories. It was that fact, that naturally grew my deep interest in video game design.
     At the age of 16-17 I've tried helping and working on several projects and out of my own perfectionist attitude, I still haven't published anything, merely shared them with groups of friends. Today, I have continued to hone my story writing and programming skills, while also receiving critique from several groups of people. Currently I'm working on finalizing a project, so I can make my first publication before this summer. My goal is to find my own unique take on said skills, to draw the intrigue of people and preserve it and to also be a skilled programmer that others can easily cooperate and rely on. I may not be world class, but I'll keep working and moving forward, until I make my own name on the market. For that purpose, I'm looking to work with people and hone my skills by helping with their own projects.
 
 experiences:
@@ -63,7 +63,7 @@ projects:
   display: true
   title: Projects
   intro: |
-    This is all the projects I'm involved in.
+  
 
   items:
     - name: Dannoth and the final trigger
@@ -77,13 +77,14 @@ skills:
   details: |
     Here are my skills:
     + Programming
-    + Story writing
-    + Narration
+    
+    + Story writing and narration
+    
     + Group organizer
 
 
   levels:
-    - name: Story writing and narration
+    - name: Story writing
       level: 80
     - name: Programming
       level: 70
@@ -96,7 +97,7 @@ education:
   items:
     - university: Ionian University
       time: 2020 - Present
-      major: Informatics
+      major: Humanistic Informatics
       degree: Master
       details: |
         It has, so far, helped me learn some basics and get to know more about what's happening in the programming world. I am looking forward to my graduation, and to the results of my studying.
