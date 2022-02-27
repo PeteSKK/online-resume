@@ -1,25 +1,25 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Leftsis Peter
+  title: Software Developer
   avatar:
-    display: true
+    display: false
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: p19left@ionio.gr
+  phone: 
   wechat:
   whatsapp:
   telegram:
-  website: example.com
+  website: 
   medium:
   linkedin:
   googlescholar:
   researchgate:
-  github: github
+  github: https://github.com/PeteSKK
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
@@ -35,7 +35,7 @@ profile:
     ...
 
 experiences:
-  display: true
+  display: false
   title: Experiences
   items:
     - role: Backend Developer
@@ -124,7 +124,7 @@ education:
         ...
 
 certificates:
-  display: true
+  display: false
   title: Certificates
   items:
     - name: Course Foo
@@ -140,7 +140,7 @@ certificates:
       details: |
 
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
     This is all the books I wrote.
@@ -156,7 +156,7 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
@@ -166,10 +166,12 @@ languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
+    - idiom: Greek
       level: Native
     - idiom: English
       level: Professional
+    - idiom: Japanese
+      level: Intermediate 
 
 interests:
   display: true
@@ -177,8 +179,10 @@ interests:
   items:
     - item: Reading
       link:
-    - item: Cooking
+    - item: Video games
       link:
+    - item: Board games
+    - item: Story-writing
 
 evaluation:
   display: true
